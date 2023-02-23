@@ -1,0 +1,29 @@
+C:\Users\Adfmin\Desktop\вторая курсовая\store\bin\Debug\store.exe.config
+C:\Users\Adfmin\Desktop\вторая курсовая\store\bin\Debug\store.exe
+C:\Users\Adfmin\Desktop\вторая курсовая\store\bin\Debug\store.pdb
+C:\Users\Adfmin\Desktop\вторая курсовая\store\obj\Debug\store.csproj.AssemblyReference.cache
+C:\Users\Adfmin\Desktop\вторая курсовая\store\obj\Debug\store.MainForm.resources
+C:\Users\Adfmin\Desktop\вторая курсовая\store\obj\Debug\store.Properties.Resources.resources
+C:\Users\Adfmin\Desktop\вторая курсовая\store\obj\Debug\store.csproj.GenerateResource.cache
+C:\Users\Adfmin\Desktop\вторая курсовая\store\obj\Debug\store.csproj.CoreCompileInputs.cache
+C:\Users\Adfmin\Desktop\вторая курсовая\store\obj\Debug\store.exe
+C:\Users\Adfmin\Desktop\вторая курсовая\store\obj\Debug\store.pdb
+C:\Users\Adfmin\Desktop\вторая курсовая\store\obj\Debug\store.QueryEdit.resources
+C:\Users\Adfmin\Desktop\вторая курсовая\store\obj\Debug\store.stats.resources
+C:\Users\Adfmin\Desktop\вторая курсовая\store - Copy\bin\Debug\store.exe.config
+C:\Users\Adfmin\Desktop\вторая курсовая\store - Copy\bin\Debug\store.exe
+C:\Users\Adfmin\Desktop\вторая курсовая\store - Copy\bin\Debug\store.pdb
+C:\Users\Adfmin\Desktop\вторая курсовая\store - Copy\obj\Debug\store.csproj.AssemblyReference.cache
+C:\Users\Adfmin\Desktop\вторая курсовая\store - Copy\obj\Debug\store.EditForm.resources
+C:\Users\Adfmin\Desktop\вторая курсовая\store - Copy\obj\Debug\store.MainForm.resources
+C:\Users\Adfmin\Desktop\вторая курсовая\store - Copy\obj\Debug\store.Properties.Resources.resources
+C:\Users\Adfmin\Desktop\вторая курсовая\store - Copy\obj\Debug\store.QueryEdit.resources
+C:\Users\Adfmin\Desktop\вторая курсовая\store - Copy\obj\Debug\store.RelatedTables.resources
+C:\Users\Adfmin\Desktop\вторая курсовая\store - Copy\obj\Debug\store.stats.resources
+C:\Users\Adfmin\Desktop\вторая курсовая\store - Copy\obj\Debug\store.csproj.GenerateResource.cache
+C:\Users\Adfmin\Desktop\вторая курсовая\store - Copy\obj\Debug\store.csproj.CoreCompileInputs.cache
+C:\Users\Adfmin\Desktop\вторая курсовая\store - Copy\obj\Debug\store.exe
+C:\Users\Adfmin\Desktop\вторая курсовая\store - Copy\obj\Debug\store.pdb
+C:\Users\Adfmin\Desktop\вторая курсовая\store\obj\Debug\store.csproj.ResolveComReference.cache
+C:\Users\Adfmin\Desktop\вторая курсовая\store\obj\Debug\store.report2.resources
+C:\Users\Adfmin\Desktop\вторая курсовая\store\obj\Debug\store.Report1WithAutomatization.resources
